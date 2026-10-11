@@ -41,11 +41,11 @@ export default function Footer() {
             Direct Corporate Inquiry
           </div>
           <Link
-            href="mailto:hello@oylengroup.com.ng"
+            href="mailto:hello@oylengroup.com"
             className="mt-2 inline-flex items-center gap-2 text-sm text-on-surface hover:text-primary transition-colors"
           >
             <Mail className="size-4" strokeWidth={2} />
-            hello@oylengroup.com.ng
+            hello@oylengroup.com
           </Link>
         </div>
 

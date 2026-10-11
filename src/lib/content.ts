@@ -14,7 +14,7 @@ export const statBar = [
   },
   {
     label: "Lease Integrity",
-    value: "$120M+",
+    value: "₦120M+",
     caption: "Escrow & Leases Protected",
     icon: "shield",
   },
@@ -55,7 +55,7 @@ export const subsidiaries: Subsidiary[] = [
     name: "KodasHub",
     description:
       "Technical resolution platform for critical website errors, unexpected server crashes, domain DNS routing, and enterprise hosting orchestration.",
-    url: "https://kh.oylengroup.com.ng",
+    url: "https://kh.oylengroup.com",
     bullets: [
       "24/7 Instant Diagnostics Engine",
       "DNS & HTTPS Security",
@@ -73,7 +73,7 @@ export const subsidiaries: Subsidiary[] = [
     name: "DwellingBloom",
     description:
       "Direct peer-to-owner marketplace connecting verified landlords directly with prospective tenants, completely exiting out exploitative middlemen and rental scams.",
-    url: "https://dwellingbloom.oylengroup.com.ng",
+    url: "#coming-soon",
     bullets: [
       "Direct Owner–Tenant Peer Protocol",
       "Escrow Rental Vault Protection",
@@ -149,29 +149,29 @@ export const footerColumns = [
   {
     heading: "Our Subsidiaries",
     items: [
-      { name: "KodasHub", url: "https://kh.oylengroup.com.ng" },
+      { name: "KodasHub", url: "https://kh.oylengroup.com" },
       { name: "DwellingBloom", url: "#coming-soon" },
       { name: "Flip2pay", url: "#coming-soon" },
     ],
   },
-  {
-    heading: "Legal & Integrity",
-    items: [
-      {
-        name: "Privacy & Data Safeguards",
-        url: "#",
-      },
-      { name: "Regulatory Disclosures", url: "#" },
-      { name: "ESG & Sustainability Code", url: "#" },
-      { name: "Anti-Corruption Charter", url: "#" },
-    ],
-  },
+  // {
+  //   heading: "Legal & Integrity",
+  //   items: [
+  //     {
+  //       name: "Privacy & Data Safeguards",
+  //       url: "#",
+  //     },
+  //     { name: "Regulatory Disclosures", url: "#" },
+  //     { name: "ESG & Sustainability Code", url: "#" },
+  //     { name: "Anti-Corruption Charter", url: "#" },
+  //   ],
+  // },
   {
     heading: "Socials",
     items: [
-      { name: "LinkedIn", url: "#" },
-      { name: "Twitter", url: "#" },
-      { name: "Facebook", url: "#" },
+      { name: "LinkedIn", url: "https://www.linkedin.com/company/oylengroup" },
+      { name: "Twitter", url: "https://twitter.com/oylengroup" },
+      { name: "Facebook", url: "https://www.facebook.com/oylengroup" },
     ],
   },
 ];

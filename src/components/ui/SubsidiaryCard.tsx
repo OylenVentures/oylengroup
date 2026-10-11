@@ -91,7 +91,7 @@ export default function SubsidiaryCard({ item }: { item: Subsidiary }) {
         <Link
           href={item.url}
           className={`mt-6 inline-flex items-center justify-center gap-2 rounded-full px-5 py-3 text-sm font-display font-medium transition-colors ${ctaStyles[item.ctaTone]}`}
-          target="_blank"
+          target={item.url === "#coming-soon" ? "" : "_blank"}
           rel="noopener noreferrer"
         >
           {item.cta}

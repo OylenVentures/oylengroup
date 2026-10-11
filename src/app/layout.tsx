@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     process.env.NEXT_PUBLIC_HOST_URI || "http://localhost:3000",
   ),
   title:
-    "OylenGroup — A Group of Trailblazing Ventures for Every Modern Challenge",
+    "OylenGroup - A Group of Trailblazing Ventures for Every Modern Challenge",
   description:
     "OylenGroup engineers, scales, and operates sovereign-grade platforms spanning resilient cloud infrastructure, scam-free direct PropTech, ultra-fast fintech telecommunications, and high-impact venture incubation.",
   keywords: [
@@ -25,6 +25,9 @@ export const metadata: Metadata = {
     "Smart Living",
     "Precision Farming",
     "Telemedicine",
+    "Development",
+    "Support",
+    "Technology",
   ],
   authors: [
     { name: "Philip Oyelegbin", url: "https://philip.oyelegbin.name.ng" },
