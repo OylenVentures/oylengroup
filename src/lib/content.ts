@@ -175,6 +175,10 @@ export const footerColumns = [
         name: "Facebook",
         url: "https://www.facebook.com/profile.php?id=61595106069240",
       },
+      {
+        name: "Instagram",
+        url: "https://instagram.com/oylengroup",
+      },
     ],
   },
 ];
