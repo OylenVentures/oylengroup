@@ -78,6 +78,7 @@ export default function Footer() {
                   <Link
                     href={item.url}
                     className="hover:text-on-surface transition-colors"
+                    target={item.url.startsWith("http") ? "_blank" : "_self"}
                   >
                     {item.name}
                   </Link>

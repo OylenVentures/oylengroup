@@ -26,7 +26,7 @@ export const statBar = [
   },
   {
     label: "Engineering",
-    value: "24/7",
+    value: "40 hours",
     caption: "Live Incident Diagnostics",
     icon: "radar",
   },
@@ -108,7 +108,7 @@ export const solveFeatures = [
     icon: "shield",
     title: "Zero-Middleman Protocol",
     description:
-      "DwellingBloom and Oylen VTU bypass exploitative layers, routing tenants straight to verifiable landlords, and businesses directly to telco core switches.",
+      "DwellingBloom and Flip2Pay bypass exploitative layers, routing tenants straight to verifiable landlords, and businesses directly to telco core switches.",
   },
   {
     icon: "server",
@@ -123,7 +123,7 @@ export const pillars = [
     icon: "swap",
     title: "Cross-Subsidiary Synergy",
     description:
-      "PropTech tenants settle leases using Oylen VTU financial micro-rails, hosted on KodasHub resilient web infrastructure.",
+      "PropTech tenants settle leases using Flip2Pay financial micro-rails, hosted on KodasHub resilient web infrastructure.",
     index: "01 / Integrated Stack",
     tone: "primary",
   },
@@ -171,7 +171,10 @@ export const footerColumns = [
     items: [
       { name: "LinkedIn", url: "https://www.linkedin.com/company/oylengroup" },
       { name: "Twitter", url: "https://twitter.com/oylengroup" },
-      { name: "Facebook", url: "https://www.facebook.com/oylengroup" },
+      {
+        name: "Facebook",
+        url: "https://www.facebook.com/profile.php?id=61595106069240",
+      },
     ],
   },
 ];
